@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sun_cloud_angled_rain.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
